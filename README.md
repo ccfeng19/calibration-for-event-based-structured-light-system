@@ -4,9 +4,9 @@ Complete procedure：
 
 1. Calibrate event camera (DAVIS) with Zhang's method
 
-2. Calibration galvanometer
+2. Calibrate galvanometer
 
-3. Calibration system (stereo calibration)
+3. Calibrate system (stereo calibration)
 
 Details:
 
